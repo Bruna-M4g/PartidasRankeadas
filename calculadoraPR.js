@@ -20,4 +20,4 @@ function levelCalculator(vitorias) {
     console.log("O herói tem o saldo de " + vitorias + " e está no nível de " + titulo)
 }
 
-levelCalculator(159)
+levelCalculator(210)
