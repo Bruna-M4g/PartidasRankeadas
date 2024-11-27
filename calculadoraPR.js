@@ -17,7 +17,7 @@ function levelCalculator(vitorias) {
     } else if (vitorias >= 101) {
         titulo = "Imortal"
     }
-    console.log("Você tem " + vitorias + " vitórias, então seu título é: " + titulo)
+    console.log("O herói tem o saldo de " + vitorias + " e está no nível de " + titulo)
 }
 
 levelCalculator(159)
